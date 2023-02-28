@@ -2,7 +2,6 @@ DOMAIN-KEYWORD, toponad, reject
 DOMAIN-KEYWORD, rayjump, reject
 DOMAIN-KEYWORD, snssdk, reject
 DOMAIN-KEYWORD, gdtimg, reject
-DOMAIN, mi.gdt.qq.com, reject
 DOMAIN-KEYWORD, pglstatp-toutiao, reject
 DOMAIN-KEYWORD, ugdtimg, reject
 DOMAIN-KEYWORD, ctobsnssdk, reject
@@ -10,4 +9,8 @@ DOMAIN-KEYWORD, gdt.qq.com, reject
 DOMAIN-KEYWORD, pangolin-sdk-toutiao, reject
 DOMAIN-KEYWORD, anythinktech, reject
 DOMAIN-KEYWORD, umeng, reject
+DOMAIN-KEYWORD, kuaishou, reject
+DOMAIN-KEYWORD, zijie, reject
+DOMAIN-KEYWORD, yximgs, reject
 DOMAIN, sdk.e.qq.com, reject
+DOMAIN, mi.gdt.qq.com, reject
