@@ -1,0 +1,46 @@
+# 趣智校园广告规则
+DOMAIN-KEYWORD, toponad, reject
+DOMAIN-KEYWORD, rayjump, reject
+DOMAIN-KEYWORD, gdtimg, reject
+DOMAIN-KEYWORD, pglstatp-toutiao, reject
+DOMAIN-KEYWORD, ugdtimg, reject
+DOMAIN-KEYWORD, ctobsnssdk, reject
+DOMAIN-KEYWORD, gdt.qq.com, reject
+DOMAIN-KEYWORD, pangolin-sdk-toutiao, reject
+DOMAIN-KEYWORD, anythinktech, reject
+DOMAIN-KEYWORD, umeng, reject
+DOMAIN-KEYWORD, kuaishou, reject
+DOMAIN-KEYWORD, zijie, reject
+DOMAIN, sdk.e.qq.com, reject
+DOMAIN, mi.gdt.qq.com, reject
+
+# 车来了广告规则
+DOMAIN-KEYWORD, sogaha, reject
+DOMAIN-KEYWORD, mobads, reject
+DOMAIN-KEYWORD, open.e.kuaishou, reject
+DOMAIN-KEYWORD, pangolin-sdk, reject
+DOMAIN-KEYWORD, adx, reject
+DOMAIN-KEYWORD, feed-image, reject
+DOMAIN-KEYWORD, als.baidu, reject
+DOMAIN-KEYWORD, pic-cpu, reject
+DOMAIN-KEYWORD, nx-perf, reject
+DOMAIN-KEYWORD, adpub, reject
+DOMAIN-KEYWORD, agg, reject
+DOMAIN-KEYWORD, logs.chelaile, reject
+DOMAIN-KEYWORD, atrace.chelaile, reject
+DOMAIN-KEYWORD, gifshow, reject
+DOMAIN-KEYWORD, bytedance, reject
+DOMAIN-KEYWORD, jpush, reject
+DOMAIN-KEYWORD, mssdk, reject
+DOMAIN-KEYWORD, mazu, reject
+DOMAIN-KEYWORD, juguang, reject
+DOMAIN-KEYWORD, getui, reject
+DOMAIN-KEYWORD, bugly, reject
+DOMAIN-KEYWORD, dualstack, reject
+DOMAIN-KEYWORD, zxid-m, reject
+DOMAIN-KEYWORD, restios, reject
+DOMAIN-KEYWORD, impdsp, reject
+DOMAIN-KEYWORD, adview, reject
+DOMAIN-KEYWORD, bgg, reject
+DOMAIN-KEYWORD, bytegoofy, reject
+DOMAIN-KEYWORD, digicert, reject
