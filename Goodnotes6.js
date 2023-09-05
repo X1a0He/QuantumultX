@@ -1,10 +1,8 @@
 let currentDate = new Date().toISOString();
 let X1a0He = {
-    "request_date_ms": 1693929600000,
-    "request_date": "2023-09-05T16:00:00.000Z",
     "subscriber": {
         "non_subscriptions": {
-            "com.goodnotes6.one_time_unlock_3999": [
+            "com.goodnotes6.one_time_unlock": [
                 {
                     "is_sandbox": false,
                     "ownership_type": "PURCHASED",
@@ -16,9 +14,8 @@ let X1a0He = {
                 }
             ]
         },
-        "first_seen": currentDate,
         "other_purchases": {
-            "com.goodnotes6.one_time_unlock_3999": {
+            "com.goodnotes6.one_time_unlock": {
                 "purchase_date": currentDate
             }
         },
@@ -33,9 +30,7 @@ let X1a0He = {
             },
             "crossplatform_access": {}
         },
-        "original_purchase_date": currentDate,
-        "last_seen": currentDate,
-        "Warning": ""
+        "original_purchase_date": currentDate
     }
 };
 $done({ body: JSON.stringify(X1a0He) });
