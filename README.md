@@ -29,16 +29,26 @@
 
 # 兼容
 
-| App        | 版本              | iPad | iPhone |                    特殊要求                     |
-|:-----------|:----------------|:----:|:------:|:-------------------------------------------:|
-| Goodnotes  | 6.0.0 ~ latest  |  ✅   |   ✅    |                      无                      |
-| Notability | 14.1.1 ~ latest |  ✅   |   ✅    | 部分有Notability Starter计划用户需要开着脚本才生效，其他则一次性解锁 |
-| 趣智校园       | all             |  ✅   |   ✅    |             广告过滤，使用时需要打开脚本才能生效              |
-| 车来了        | all             |  ✅   |   ✅    |         广告过滤，使用时需要打开脚本才能生效，部分区域无法过滤         |
+* ❌: 需要Quantumult X开启时使用，非一次性
+* ✅: 可在关闭Quantumult X时使用
+
+|    App     |       版本        | 是否一次性 | iOS | iPad | iPhone | 特殊要求                        |  
+|:----------:|:---------------:|:-----:|:---:|:----:|:------:|:----------------------------|
+| Goodnotes  | 6.0.0 ~ latest  |   ❌   |  ✅  |  ✅   |   ✅    | 无                           |   
+| Notability | 14.1.1 ~ latest |   ✅   |  ✅  |  ✅   |   ✅    | 无                           |     
+|    趣智校园    |     latest      |   ❌   |  ✅  |  ✅   |   ✅    | 广告过滤，使用时需要打开脚本才能生效          |     
+|    车来了     |     latest      |   ❌   |  ✅  |  ✅   |   ✅    | 广告过滤，使用时需要打开脚本才能生效，部分区域无法过滤 |     
 
 # Log
 
 ## Goodnotes
+
+- 2023-09-06 01:20 Create [Goodnotes6.conf](https://github.com/X1a0He/QuantumultX/blob/main/Goodnotes6.conf)
+- 2023-09-06 01:20 Create [Goodnotes6.js](https://github.com/X1a0He/QuantumultX/blob/main/Goodnotes6.js)
+
+```
+从6.0.13版本开始无法一次性解锁订阅，需要开着Quantumult X才能解锁
+```
 
 - 2023-08-11 03:20 Create [Goodnotes6.conf](https://github.com/X1a0He/QuantumultX/blob/main/Goodnotes6.conf)
 - 2023-08-11 03:20 Create [Goodnotes6.js](https://github.com/X1a0He/QuantumultX/blob/main/Goodnotes6.js)
