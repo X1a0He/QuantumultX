@@ -32,14 +32,26 @@
 * ❌: 需要Quantumult X开启时使用，非一次性
 * ✅: 可在关闭Quantumult X时使用
 
-|    App     |       版本        | 是否一次性 | iOS | iPad | iPhone | 特殊要求                        |  
-|:----------:|:---------------:|:-----:|:---:|:----:|:------:|:----------------------------|
-| Goodnotes  | 6.0.0 ~ latest  |   ❌   |  ✅  |  ✅   |   ✅    | 无                           |   
-| Notability | 14.1.1 ~ latest |   ✅   |  ✅  |  ✅   |   ✅    | 无                           |     
-|    趣智校园    |     latest      |   ❌   |  ✅  |  ✅   |   ✅    | 广告过滤，使用时需要打开脚本才能生效          |     
-|    车来了     |     latest      |   ❌   |  ✅  |  ✅   |   ✅    | 广告过滤，使用时需要打开脚本才能生效，部分区域无法过滤 |     
+|    App     |       版本        | 是否一次性 | iOS | iPad | iPhone | 特殊要求                                               |  
+|:----------:|:---------------:|:-----:|:---:|:----:|:------:|:---------------------------------------------------|
+|    Guga    | 1.0.9 ~ latest  |   ❌   |  ✅  |  ✅   |   ❌    | 因Guga只能在iPad端下载，所以无iPhone版，使用时需要打开Quantumult X才能解锁 |   
+| Goodnotes  | 6.0.0 ~ latest  |   ❌   |  ✅  |  ✅   |   ✅    | 无                                                  |   
+| Notability | 14.1.1 ~ latest |   ✅   |  ✅  |  ✅   |   ✅    | 无                                                  |     
+|    趣智校园    |     latest      |   ❌   |  ✅  |  ✅   |   ✅    | 广告过滤，使用时需要打开脚本才能生效                                 |     
+|    车来了     |     latest      |   ❌   |  ✅  |  ✅   |   ✅    | 广告过滤，使用时需要打开脚本才能生效，部分区域无法过滤                        |     
 
 # Log
+
+## Guga
+
+- 2023-09-13 23:31 Create [Guga.conf](https://github.com/X1a0He/QuantumultX/blob/main/Guga.conf)
+- 2023-09-13 23:31 Create [Guga.js](https://github.com/X1a0He/QuantumultX/blob/main/Guga.js)
+
+```
+GUGA-超级白板Pro会员权限
+无限白板、无限卡片、无限制白板导出
+注: GUGA无iPhone端，非一次性解锁，使用时需要打开Quantumult X才能解锁
+```
 
 ## Goodnotes
 
